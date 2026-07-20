@@ -1,0 +1,57 @@
+[
+  {"song":1,"title":"No me quites el pan, algoritmo","text":"Hace años que camino\ncon el hambre y el pincel,\ncon la fe mal afeitada\ny las cuentas por vencer."},
+  {"song":1,"title":"No me quites el pan, algoritmo","text":"No me quites el pan, algoritmo,\nque ese pan lo amasé yo.\nCon mis dudas, con mis manos,\ncon mi torpe corazón."},
+  {"song":1,"title":"No me quites el pan, algoritmo","text":"Tú me prestas tus relámpagos,\nyo te enseño a sufrir."},
+  {"song":1,"title":"No me quites el pan, algoritmo","text":"No le temo a las máquinas,\nle temo a la mediocridad,\na la gente que no sueña\npero quiere publicar."},
+  {"song":1,"title":"No me quites el pan, algoritmo","text":"El arte no es la prisa,\nni el aplauso del montón:\nes quedarse solo un rato\nhasta oír la propia voz."},
+  {"song":1,"title":"No me quites el pan, algoritmo","text":"Yo no niego tu poder.\nTú no finjas que conoces\nlo que cuesta amanecer."},
+
+  {"song":2,"title":"Ser pesimista sale gratis","text":"Si acierta, era un profeta.\nSi falla, brindamos todos.\nNegocio redondo."},
+  {"song":2,"title":"Ser pesimista sale gratis","text":"Yo no niego la tormenta,\nni la grieta en la pared,\npero el sol sigue saliendo\nsin pedirnos parecer."},
+  {"song":2,"title":"Ser pesimista sale gratis","text":"Entre tanto especialista\ndel derrumbe nacional,\nyo me quedo con la duda,\nque es más cara de llevar."},
+  {"song":2,"title":"Ser pesimista sale gratis","text":"Yo soy moderadamente optimista:\nuna forma elegante de seguir peleando\nsin hacer demasiado ruido."},
+  {"song":2,"title":"Ser pesimista sale gratis","text":"Creo poco en los discursos.\nCreo más en el café,\nen quien llega por la mañana\ny lo intenta otra vez."},
+  {"song":2,"title":"Ser pesimista sale gratis","text":"Yo prefiero pagar\nel peaje de estar vivo\ny volverlo a intentar."},
+
+  {"song":3,"title":"El mayor invento del siglo","text":"Antes uno esperaba.\nEl autobús, una llamada,\nun milagro pequeño.\nAhora actualizamos la pantalla."},
+  {"song":3,"title":"El mayor invento del siglo","text":"La espera era una plaza\ncon bancos para pensar,\nun minuto sin noticias,\nun vaso sin terminar."},
+  {"song":3,"title":"El mayor invento del siglo","text":"Nos quitaron el aburrimiento\ny lo llamaron libertad.\nPero el vacío era la casa\ndonde empezaba a imaginar."},
+  {"song":3,"title":"El mayor invento del siglo","text":"Hay cosas que no nacen\ncon prisa ni conexión:\nuna idea necesita\nque le duela el corazón."},
+  {"song":3,"title":"El mayor invento del siglo","text":"El mayor invento del siglo\nfue distraernos sin final.\nLástima que en aquel vacío\nyo aprendía a cantar."},
+  {"song":3,"title":"El mayor invento del siglo","text":"No hagas nada un rato.\nA ver quién eres."},
+
+  {"song":4,"title":"Los que aún creemos","text":"Siempre queda alguien\napagando una luz\npara que otra no se muera."},
+  {"song":4,"title":"Los que aún creemos","text":"Llegamos tarde al portal,\ncon la vida en los bolsillos\ny la fe sin planchar."},
+  {"song":4,"title":"Los que aún creemos","text":"Guardamos una luz\npor si vuelve el sentido.\nNo sabemos rendirnos bien."},
+  {"song":4,"title":"Los que aún creemos","text":"No es ingenua la esperanza\ncuando ya viste caer\nlo que amabas tantas veces\ny lo vuelves a querer."},
+  {"song":4,"title":"Los que aún creemos","text":"Creer no es cerrar los ojos.\nCreer es mirar de frente\ny, aun así, poner la mesa."},
+  {"song":4,"title":"Los que aún creemos","text":"Si mañana todo cae,\nque nos pillen encendiendo\notra vez la habitación."},
+
+  {"song":5,"title":"Terminar es traicionar","text":"Hay obras que no se terminan.\nUno simplemente deja de molestarlas.\nCierra la puerta despacio\ny finge que ha decidido algo."},
+  {"song":5,"title":"Terminar es traicionar","text":"Tengo una frase dando vueltas\ncomo un perro sin hogar."},
+  {"song":5,"title":"Terminar es traicionar","text":"Terminar es traicionar un poco\nlo que aún quería vivir.\nEs dejar una ventana abierta\ny marcharse sin dormir."},
+  {"song":5,"title":"Terminar es traicionar","text":"Uno no termina un cuadro.\nUno le concede silencio."},
+  {"song":5,"title":"Terminar es traicionar","text":"Estoy cerrando una puerta\npara aprender a mirar."},
+  {"song":5,"title":"Terminar es traicionar","text":"Que me encuentre trabajando,\ncon la lámpara encendida\ny otro principio temblando."},
+
+  {"song":6,"title":"En mi hambre mando yo","text":"Hay hambres que no se curan comiendo.\nHay hambres que te mantienen de pie.\nLa mía, por ahora,\nno la administra nadie."},
+  {"song":6,"title":"En mi hambre mando yo","text":"No conviene tener hambre\nsi no sabes facturar."},
+  {"song":6,"title":"En mi hambre mando yo","text":"He aprendido a estar perdido\nsin perder la dirección."},
+  {"song":6,"title":"En mi hambre mando yo","text":"Cuando alguien te ordena\nlo que debes desear,\nconviene revisar\nquién tiene la llave del pan."},
+  {"song":6,"title":"En mi hambre mando yo","text":"Yo trabajo porque el alma\nme amenaza con hablar."},
+  {"song":6,"title":"En mi hambre mando yo","text":"No es mucho.\nPero es mío."},
+
+  {"song":7,"title":"Fuera de cobertura","text":"No me fui.\nSolo dejé de estar disponible.\nA veces desaparecer un poco\nes la única forma decente de volver."},
+  {"song":7,"title":"Fuera de cobertura","text":"Hay silencios que no duelen.\nSolo piden habitación."},
+  {"song":7,"title":"Fuera de cobertura","text":"Estoy fuera de cobertura,\npero no me fui de mí."},
+  {"song":7,"title":"Fuera de cobertura","text":"No todo silencio es tristeza.\nNo toda ausencia es final."},
+  {"song":7,"title":"Fuera de cobertura","text":"Basta un rato sin el mundo\ny una luz sin publicar."},
+  {"song":7,"title":"Fuera de cobertura","text":"No era ausencia.\nEra regreso por dentro."},
+
+  {"song":8,"title":"Brindaremos con coñac","text":"Un amigo de mi padre\ncompró un millón de pesetas en coñac.\nNo era un vicio.\nEra un plan de supervivencia."},
+  {"song":8,"title":"Brindaremos con coñac","text":"No eran armas, no eran mapas,\nno era oro en un cajón.\nEra vidrio color ámbar\ncontra el miedo y el dolor."},
+  {"song":8,"title":"Brindaremos con coñac","text":"Brindaremos con coñac\ncuando se apague el mundo,\ncon la copa medio llena\ny el corazón profundo."},
+  {"song":8,"title":"Brindaremos con coñac","text":"Cada época elige\nsu pequeña defensa\ncontra el derrumbe."},
+  {"song":8,"title":"Brindaremos con coñac","text":"Pondré sobre la mesa\nlo poco que me quedó:\nun mantel, dos vasos limpios\ny una antigua educación."},
+  {"song":8,"title":"Brindaremos con coñac","text":"Incluso en la derrota\npuede haber celebración."}
+]
